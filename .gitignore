@@ -2,7 +2,7 @@
 *.pot
 *.pyc
 __pycache__
-db.sqlite3
+db.sqlite3git update-index --assume-unchanged projectname/settings.py
 media
 
 
@@ -12,3 +12,7 @@ media
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+fastparcel-ece8d-firebase-adminsdk-g7lnk-4d560c928f.json
+
+settings.py
